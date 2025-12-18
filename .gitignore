@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# 环境配置
+.env
+
+# 数据文件
+data/pdfs/*.pdf
+data/cache/*.json
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
